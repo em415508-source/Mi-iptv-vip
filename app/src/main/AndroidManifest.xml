@@ -34,7 +34,7 @@
         android:banner="@drawable/app_banner"
         android:icon="@mipmap/ic_launcher_vault"
         android:roundIcon="@mipmap/ic_launcher_vault"
-        android:label="StreamVault"
+        android:label="vip-iptv"
         android:networkSecurityConfig="@xml/network_security_config"
         android:usesCleartextTraffic="false"
         android:supportsRtl="true"
